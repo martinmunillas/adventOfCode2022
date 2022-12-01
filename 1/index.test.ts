@@ -22,7 +22,7 @@ describe("First challenge", () => {
     ).toBe(24000);
   });
 
-  it("should retrieve the 24000 calories", () => {
+  it("should retrieve the 161 calories", () => {
     expect(
       getMostCalories(
         `23
